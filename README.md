@@ -1,4 +1,4 @@
-# LifeofScripts-DBMS
+# Knowledge Hub: Library Monitoring System
 
 ## 📝 Introduction
 This project aims to develop a **comprehensive Library Management System (LMS)** using a Database Management System (DBMS) to automate and streamline the operations of a library.  
