@@ -1,0 +1,16 @@
+ fine_id  , transaction_id  , amount , paid_status  , payment_date  
+ F1       , T3              ,20, Paid         ,18-09-2025
+ F2       , T4              ,10, Paid         ,16-09-2025
+ F3       , T6              ,15, Unpaid       , NULL          
+ F4       , T9              ,5, Paid         ,21-09-2025
+ F5       , T11             ,10, Paid         ,24-09-2025
+ F6       , T14             ,5, Paid         ,26-09-2025
+ F7       , T3              ,20, Paid         ,18-09-2025
+ F8       , T4              ,10, Paid         ,16-09-2025
+ F9       , T6              ,15, Unpaid       , NULL          
+ F10      , T9              ,5, Paid         ,21-09-2025
+ F11      , T11             ,10, Paid         ,24-09-2025
+ F12      , T14             ,5, Paid         ,26-09-2025
+ F13      , T6              ,15, Unpaid       , NULL          
+ F14      , T9              ,5, Paid         ,21-09-2025
+ F15      , T11             ,10, Paid         ,24-09-2025

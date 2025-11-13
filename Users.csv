@@ -1,0 +1,17 @@
+user_id,name,email,password,role,membership_date
+U1,Alice Brown,alice@mail.com,pass123,member,2025-01-15
+U2,Bob Smith,bob@mail.com,pass456,member,2025-02-20
+U3,Carol White,carol@mail.com,pass789,member,2025-03-10
+U4,Daniel Johnson,daniel@mail.com,pass101,member,2025-04-05
+U5,Eva Martinez,eva@mail.com,pass202,member,2025-05-12
+U6,Felix Wong,felix@mail.com,pass303,member,2025-06-18
+U7,Gloria Kim,gloria@mail.com,pass404,member,2025-07-22
+U5,Eva Black,eva@mail.com,pass222,Member,
+U7,Grace Lee,grace@mail.com,pass444,Member,
+U9,Irene Hall,irene@mail.com,pass666,Member,
+U10,Jack Wilson,jack@mail.com,pass777,Member,
+U12,Liam Thomas,liam@mail.com,pass999,Member,
+U13,Mona Scott,mona@mail.com,pass000,Member,
+U14,Nick Harris,nick@mail.com,pass321,Member,
+U15,Olivia Parker,olivia@mail.com,pass654,Member,
+U310,surabhi,surabhi@gmail.com,staff123,member,2025-11-05

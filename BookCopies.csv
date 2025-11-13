@@ -1,0 +1,39 @@
+copy_id,book_id,location,condition,status
+C1,101,Shelf A1,Good,Available
+C2,101,Shelf A1,Good,Borrowed
+C3,102,Shelf B2,Fair,Available
+C4,103,Shelf C1,Good,Borrowed
+C5,104,Shelf D3,Good,Available
+C6,105,Shelf E2,Good,Available
+C7,105,Shelf E2,Fair,Borrowed
+C8,106,Shelf F1,Good,Available
+C9,107,Shelf G1,Good,Borrowed
+C10,108,Shelf H2,Fair,Available
+C11,109,Shelf I3,Good,Available
+C12,110,Shelf J2,Good,Borrowed
+C13,111,Shelf K1,Good,Borrowed
+C14,112,Shelf L1,Fair,Available
+C15,113,Shelf M2,Good,Borrowed
+C35033,B2,main,,Borrowed
+C93834,B4,main,,Borrowed
+C99570,B4,main,,available
+C24706,B6,main,,available
+C27937,B6,main,,available
+C14058,B1,main,,available
+C22007,B9,main,,Borrowed
+C15286,B7,main,,available
+C17644,B7,main,,available
+C19789,B7,main,,available
+C43204,B3,main,,Borrowed
+C46178,B3,main,,Borrowed
+C52258,B2,main,,available
+C57218,B5,main,,available
+C59866,B5,main,,available
+C67507,B8,main,,available
+C70378,B8,main,,available
+C76249,B11,main,,available
+C81179,B10,main,,available
+C83706,B10,main,,available
+C89618,B12,main,,Borrowed
+C91323,B12,main,,Borrowed
+C60874,B1,main,,available
