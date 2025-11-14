@@ -262,11 +262,17 @@ async function initializeData() {
     }
 }
 
-// Initialize when page loads
+// Initialize when page loads (only on login page, not on dashboards which handle their own init)
 window.addEventListener('load', async () => {
     // Safely get DOM elements (they may not exist on all pages)
     loginPage = loginPage || document.getElementById('loginPage');
     app = app || document.getElementById('app');
+    
+    // Only initialize on login page (where loginPage element exists)
+    if (!loginPage) {
+        // This is a dashboard page (staff or member), skip auto-init
+        return;
+    }
     
     if (loginPage) loginPage.style.display = 'flex';
     if (app) app.style.display = 'none';
