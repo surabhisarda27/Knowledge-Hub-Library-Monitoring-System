@@ -1,5 +1,5 @@
 // Import base functionality
-document.write('<script src="base.js"></script>');
+// (base.js is now included explicitly in HTML, so no need for document.write)
 
 let currentUser = null;
 let userTransactions = [];
