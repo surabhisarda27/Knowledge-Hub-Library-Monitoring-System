@@ -1,6 +1,0 @@
-staff_id,staff_name,email,password,role,department
-S1,David Green,david@library.com,staff123,Head Librarian,Management
-S2,Emma Wilson,emma@library.com,staff456,Senior Librarian,Reference
-S3,Frank Miller,frank@library.com,staff789,Librarian,Circulation
-S4,Grace Lee,grace@library.com,staff101,Assistant,Cataloging
-S5,Henry Chen,henry@library.com,staff202,Technical,Digital Services
